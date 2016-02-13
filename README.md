@@ -1,3 +1,5 @@
+**This project has been migrated to: https://gitlab.com/johannesg/MidiLearn**
+
 # MidiLearn
 ![](https://enzienaudio.com/a/dave?fetch=https://raw.githubusercontent.com/johannesgunnar/MidiLearn/master/MidiLearn.pd)
 
